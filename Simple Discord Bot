@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content === 'bb!plumbit') {
-    msg.reply('Here is the link to some of the Minecraft parodies. https://www.youtube.com/channel/UCndEIplz0_m72GnuYbA5vVg');
+  if (msg.content === 'bb!bing') {
+    msg.reply('bong');
   }
 });
-client.login('NzQwNzUzNjE1ODQ0NTQwNDYy.XytmkA.tp8scHSyVTMpBx6bfF2MWtGrpxg');
+client.login('Token Here');
